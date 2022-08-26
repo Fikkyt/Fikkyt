@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fikkyt
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analytics and Database 
 - 🌱 I’m currently learning Python Programming 
 - 💞️ I’m looking to collaborate on various python projects for beginners
 - 📫 How to reach me taofeekojewande@nda.edu.ng
